@@ -1,0 +1,57 @@
+{
+  "workbench.colorTheme": "Default Dark Modern",
+  "editor.fontSize": 14,
+  "editor.fontFamily": "Monaco",
+  "editor.tabSize": 2,
+  "files.autoSave": "onWindowChange",
+  "terminal.external.osxExec": "iTerm.app",
+  "terminal.integrated.shell.osx": "/bin/zsh",
+  "terminal.integrated.fontFamily": "MesloLGS NF",
+  "terminal.integrated.rendererType": "canvas",
+  "terminal.integrated.fontSize": 13,
+  "terminal.integrated.lineHeight": 0.8,
+  "editor.minimap.enabled": false,
+  "editor.formatOnSave": false,
+  "workbench.colorCustomizations": {
+      "editorUnnecessaryCode.opacity": "#7777777a"
+  },
+  "files.trimTrailingWhitespace": true,
+  "prettier.printWidth": 120,
+  "prettier.singleQuote": true,
+  "prettier.trailingComma": "none",
+  "inline-parameters.padding": "0.25em",
+  "inline-parameters.margin": "0.9em 0.1em",
+  "inline-parameters.fontSize": "0.9em",
+  "editor.trimAutoWhitespace": false,
+  "search.useReplacePreview": false,
+  "debug.javascript.autoAttachFilter": "smart",
+  "debug.console.fontSize": 13,
+  "quokka.colors": {
+
+      "covered": "#62b455",
+      "errorPath": "#ffa0a0",
+      "errorSource": "#fe536a",
+      "notCovered": "#cccccc",
+      "partiallyCovered": "#d2a032"
+  },
+  "diffEditor.codeLens": true,
+  "git.mergeEditor": false,
+  "git.enableSmartCommit": true,
+  "terminal.integrated.automationProfile.linux": {},
+  "diffEditor.ignoreTrimWhitespace": false,
+  "terminal.integrated.defaultProfile.linux": "zsh",
+  "[jsonc]": {
+      "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[json]": {
+      "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[yaml]": {
+      "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[typescript]": {
+      "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.indentSize": "tabSize"
+}
